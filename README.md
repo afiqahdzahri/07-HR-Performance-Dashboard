@@ -1,8 +1,6 @@
-# HR Performance Dashboard
+# HR Employee Performance Dashboard (Power BI)
 
 Includes a sample CSV usable in Power BI or Excel. Use this dataset to build dashboards showing attrition, performance, and training impact.
-
-# HR Employee Performance Dashboard (Power BI)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/your-username/hr-performance-dashboard?style=flat-square) ![Language](https://img.shields.io/badge/language-Python-blue?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
