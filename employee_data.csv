@@ -1,0 +1,4 @@
+EmployeeID,Name,Age,Gender,Department,JobRole,MonthlyIncome,YearsAtCompany,PerformanceRating,TrainingHours,Attrition
+1001,Employee_1,50,Female,Operations,Senior Analyst,9496,16,1,18,No
+1002,Employee_2,29,Male,Sales,Sales Executive,3500,2,3,12,Yes
+1003,Employee_3,33,Female,HR,HR Officer,4200,4,4,24,No
